@@ -8,7 +8,7 @@ https://www.codewars.com/kata/exes-and-ohs
 https://www.codewars.com/kata/simple-fun-number-181-rounding
 
 
-Day 1 | Day 2 | Day 3 | Day 4 | Day 5|
------ | ------ | ------ | ------ | ------ | 
-Stand-up | Stand-up | [Outcomes](https://docs.google.com/document/d/1KQ1WZfj_0IWo6Ja0lF4uIleoavEzz_NT5KIOraOwtJk/edit) | Stand-up | Project Presentations w/ UXDI
-Development | Development | Development | Development | Project Presentations w/ UXDI
+Day 2 | Day 3 | Day 4 | Day 5|
+------ | ------ | ------ | ------ | 
+Stand-up | [Outcomes](https://docs.google.com/document/d/1KQ1WZfj_0IWo6Ja0lF4uIleoavEzz_NT5KIOraOwtJk/edit) | Stand-up | Project Presentations w/ UXDI
+Development | Development | Development | Project Presentations w/ UXDI
