@@ -1,8 +1,6 @@
 # Codewars-Morning-Exercises
 
-# Day 1
-
-
+Start with the challenge and work through the rest until class time is called. Make sure to create an account for yourself to save your progress.
 
 Extract Values and Units | Phone Call | Exes and Ohs | Rounding |
 ------ | ------ | ------ | ------ | 
